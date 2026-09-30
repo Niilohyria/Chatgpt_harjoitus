@@ -1,0 +1,302 @@
+#Ekakuva {
+    position: relative;
+    z-index: 1; 
+    top: 0px;
+    left: 0px;
+    height: auto;  
+    width: 20px;
+}
+#Ekakuva img {
+    width: 100%;  
+    height: auto;
+}
+#Tokakuva {
+    position: relative;
+    z-index: 1; 
+    top: -20px;
+    left: 300px;
+    height: auto;  
+    width: 20px;
+    
+}
+#Tokakuva img {
+    width: 100%;  
+    height: auto;
+    
+}
+#Kolmaskuva {
+    position: relative;
+    z-index: 1; 
+    top: -43px;
+    left: 340px;
+    height: auto;  
+    width: 20px;
+}
+#Kolmaskuva img {
+    width: 100%;
+    height: auto;
+}
+#Valinta{
+    position: absolute;
+    top: 10px;
+    left: 540px;
+}
+#Ekahederi{
+    position: absolute;
+    top: -20px;
+    left: 400px;
+}
+#Tokahederi {
+    position: absolute;
+    top: 500px;
+    left: 900px;
+
+}
+#ChatGPT {
+    position: absolute;
+    top: 40px;
+    left: 10px;
+    height: auto;  
+    width: 20px;
+}
+#ChatGPT img {
+    width: 100%;
+    height: auto;
+}
+#ChatGPTteksti {
+    position: absolute;
+    top: 40px;
+    left: 40px;
+}
+#TutustuGPTihin {
+    position: absolute;
+    top: 70px;
+    left: 10px;
+    height: auto;  
+    width: 20px;
+}
+#TutustuGPTihin img {
+    width: 100%;
+    height: auto;
+}
+#TutustuGPTihinteksti {
+    position: absolute;
+    top: 70px;
+    left: 40px;
+}
+.harmaa {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width : 20%;
+    height: 125vh; 
+    background-color: rgba(169, 169, 169, 0.1);
+}
+#Kolmisenkuvaa {
+    position: absolute;
+    top: 610px;
+    left: 855px;
+    height: auto;  
+    width: 20px;
+    display: flex;  
+}
+
+#Kolmisenkuvaa img {
+    width: 100%;  
+    height: auto;
+}
+
+#Lähetystyö {
+    position: absolute;
+    top: 590px;
+    left: 1150px;
+    height: auto;
+}
+#Lähetystyö img{
+    width: 20px;
+    height: 20px;
+}
+#Daimont {
+    position: absolute;
+    top: 1215px;
+    left: 0px;
+    height: auto;
+    width: 25px;
+    display: flex;
+}
+#Daimont img {
+    width: 100%;  
+    height: auto;
+    
+}
+#Moorkäyttöoikeudet {
+    position: absolute;
+    top: 1250px;
+    left: 10px;
+    color: dimgray;
+}
+#Jalastin {
+    position: absolute;
+    top: 1230px;
+    left: 850px;
+}
+#Morebuttons {
+    position: absolute;
+    top: 30px;
+    left: 1800px;
+}
+#Nappula1 {
+    position: absolute;
+    top: 650px;
+    left: 850px; 
+}
+#Nappula2 {
+    position: absolute;
+    top: 650px;
+    left: 935px; 
+}
+#Nappula3 {
+    position: absolute;
+    top: 650px;
+    left: 1108px; 
+}
+#Nappula4 {
+    position: absolute;
+    top: 650px;
+    left: 1225px; 
+}
+#Nappula5 {
+    position: absolute;
+    top: 650px;
+    left: 1343px; 
+}
+#Nappula6 {
+    position: absolute;
+    top: 690px;
+    left: 850px; 
+}
+#Nappula7 {
+    position: absolute;
+    top: 690px;
+    left: 950px; 
+}
+#Nappula8 {
+    position: absolute;
+    top: 690px;
+    left: 1020px; 
+}
+#Nappula9 {
+    position: absolute;
+    top: 690px;
+    left: 1200px; 
+}
+input[type="email"] {
+    position: absolute;
+    top: 570px;
+    left: 850px;
+    width: 300px;
+    height: 40px;
+    font-size: 18px;
+    padding: 10px;
+}
+#Muistutus {
+    position: absolute;
+    top: 1220px;
+    left: 25px;
+}
+#Piktuurs1{
+    position: absolute;
+    top: 637px;
+    left: 835px;
+    height: auto;
+}
+#Piktuurs1 img{
+    height: 50px;
+    width: 50px;
+}
+#Piktuurs2{
+    position: absolute;
+    top: 650px;
+    left: 1106px;
+    height: auto;
+}
+#Piktuurs2 img{
+    height: 20px;
+    width: 20px;
+}
+#Piktuurs3{
+    position: absolute;
+    top: 650px;
+    left: 933px;
+    height: auto;
+}
+#Piktuurs3 img{
+    height: 20px;
+    width: 20px;
+}
+#Piktuurs4{
+    position: absolute;
+    top: 690px;
+    left: 1018px;
+    height: auto;
+}
+#Piktuurs4 img{
+    height: 20px;
+    width: 20px;
+}
+#Piktuurs5{
+    position: absolute;
+    top: 690px;
+    left: 1199px;
+    height: auto;
+}
+#Piktuurs5 img{
+    height: 20px;
+    width: 20px;
+}
+#Piktuurs6{
+    position: absolute;
+    top: 647px;
+    left: 1225px;
+    height: auto;
+}
+#Piktuurs6 img{
+    height: 20px;
+    width: 20px;
+}
+#Piktuurs7{
+    position: absolute;
+    top: 690px;
+    left: 852px;
+    height: auto;
+}
+#Piktuurs7 img{
+    height: 20px;
+    width: 20px;
+}
+#Piktuurs8{
+    position: absolute;
+    top: 690px;
+    left: 948px;
+    height: auto;
+}
+#Piktuurs8 img{
+    height: 20px;
+    width: 20px;
+}
+#Piktuurs9{
+    position: absolute;
+    top: 640px;
+    left: 1340px;
+    height: auto;
+}
+#Piktuurs9 img{
+    height: 30px;
+    width: 30px;
+}
+#Nuolii{
+    position: absolute;
+    top: 11px;
+    left: 560px;
+    height: auto;
+}
